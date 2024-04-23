@@ -1,3 +1,4 @@
 ### dependency
 streamlit
-
+langchain
+langchain_community
